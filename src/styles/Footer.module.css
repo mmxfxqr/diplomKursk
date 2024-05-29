@@ -1,0 +1,27 @@
+.footer {
+    background-color: rgb(230, 230, 230);
+  color: #000000;
+  padding: 20px 0;
+}
+
+.footer h4 {
+  margin-bottom: 15px;
+}
+
+.footer p {
+  margin-bottom: 10px;
+}
+
+.footer a {
+  color: #ffc107;
+  text-decoration: none;
+}
+
+.footer a:hover {
+  text-decoration: underline;
+}
+
+.logo {
+  max-width: 70px !important;
+  max-height: 70px !important;
+}

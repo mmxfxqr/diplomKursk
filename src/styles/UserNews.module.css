@@ -1,0 +1,33 @@
+.newsCard {
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .cardImage {
+    height: 200px;
+    object-fit: cover;
+  }
+  
+  .sortButtonContainer {
+    text-align: right;
+    margin-bottom: 20px;
+  }
+  
+  .sortButton {
+    margin-top: 0;
+  }
+  
+  .cardColumn {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .cardBody {
+    flex-grow: 1;
+  }
+  
+  .cardFooter {
+    text-align: right;
+  }
+  

@@ -1,0 +1,19 @@
+.logo {
+    width: 60px !important;
+    height: 60px !important;
+    margin-right: 10px !important;
+    margin-bottom: 0px !important;
+  }
+  
+  .header {
+    background-color: rgb(230, 230, 230);
+  }
+  
+  .lastLink {
+    margin-right: 100px !important;
+  }
+  
+  .activeLink {
+    font-weight: bold !important;
+  }
+  

@@ -1,0 +1,44 @@
+.mainFormContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f4f4f4; /* Светло-серый фон */
+}
+
+.mainForm {
+  width: 100%;
+  max-width: 450px !important;
+  padding: 20px;
+  background-color: #ffffff; /* Белый фон */
+  border-radius: 10px; /* Закругленные края */
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1); /* Тень */
+}
+
+.text-danger {
+  padding: 10px !important;
+}
+
+.linkLogin {
+  text-decoration: none !important;
+  color: #000000;
+}
+
+.linkLogin:hover {
+  color: #b0f0bb;
+}
+
+.linkLogin:active {
+  color: #b0f0bb;
+}
+
+.submitBtn {
+  margin-top: 10px;
+}
+
+.formFooter {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-direction: column;
+}

@@ -1,0 +1,25 @@
+.posterCard {
+    margin-bottom: 20px;
+  }
+  
+  .cardImage {
+    height: 300px;
+    object-fit: cover;
+  }
+  
+  .sortButtonContainer {
+    text-align: right;
+    margin-bottom: 20px;
+  }
+  
+  .sortButton {
+    margin-top: 0;
+  }
+  
+  .cardColumn {
+    display: flex;
+    justify-content: center;
+  }
+  .cardFooter {
+    text-align: right;
+  }
